@@ -147,7 +147,11 @@ References for **analyzing files, memory, and network captures**.
   > - [Forensics-Version Control.pdf](https://github.com/user-attachments/files/22003627/Forensics-Version.Control.pdf)
   > - [Hello Sir or Madam.pdf](https://github.com/user-attachments/files/22003641/Hello.Sir.or.Madam.-.Tagged.pdf)
   > - [HelloDearsirorMadam.pdf](https://github.com/user-attachments/files/22003665/HelloDearsirorMadam.-.Tagged.pdf)
-  > - [Green_File.png](<img width="63" height="36" alt="green_file" src="https://github.com/user-attachments/assets/c7425f61-c59a-4640-8e51-50b4d100609c" />)
+  > - [green_file.png.zip](https://github.com/user-attachments/files/22003991/green_file.png.zip)
+- Forensics 572: Advanced Network Forensics & Analysis
+  > - [Forensics 572 Introduction.pdf](https://github.com/user-attachments/files/22004013/1817.pdf)
+  > - [DFIR-Poster.pdf](https://github.com/user-attachments/files/22004024/DFIR-Poster.pdf)
+  > - [Evidence Collection Cheat Sheet SANS Pocket Reference Guide.pdf](https://github.com/user-attachments/files/22004048/For572HANDOUT_ECS_v1.0_A08_01.pdf)
 ---
 
 ## 📡 Scanning
