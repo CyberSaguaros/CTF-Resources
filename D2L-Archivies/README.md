@@ -1,4 +1,4 @@
-[gcc-command.txt](https://github.com/user-attachments/files/22002295/gcc-command.txt)# 🗄️ D2L Archives
+# 🗄️ D2L Archives
 
 This file contains **archived resources from the Cyber Saguaro Club’s D2L platform**, organized into CTF-related categories.  
 These resources will serve as quick references for practice, competitions, and workshops.
@@ -31,6 +31,8 @@ Resources for **binary exploitation**.
   > - [pwnable.kr](http://pwnable.kr/play.php)
   > - [crackmes.one](https://crackmes.one/)
   > - [pwntools](https://github.com/Gallopsled/pwntools)
+  > - [binary-main.zip - Previous GitHub](https://github.com/user-attachments/files/22003774/binary-main.zip)
+
 - PWN CLASS - Week 1
   > - [PWN Intro - YouTube](https://www.youtube.com/watch?v=YYOiGcjyt6M)
   > - [PWN TRAINING Overview.pdf](https://github.com/user-attachments/files/22001931/PWN.TRAINING.Overview.pdf)
@@ -92,30 +94,74 @@ Materials on **classical and modern cryptography**.
   > - [When to use Foremost](<img width="868" height="504" alt="When to use Foremost" src="https://github.com/user-attachments/assets/766e5214-2331-447c-8416-cc5effc85729" />)
   > - [Foremost help](<img width="983" height="493" alt="Foremost help" src="https://github.com/user-attachments/assets/79fe2807-e7ef-4a0b-8ef8-d66a80ced90a" />)
   > - [Stego Docker Container](<img width="856" height="442" alt="Stego Docker Container" src="https://github.com/user-attachments/assets/88a190e0-4d2e-4c7c-aba5-8eda33efe866" />)
-
-
-
-
-
-
-
-
+- Cryptography Practice Files
+  > - [Cryptography NCL Training-v1.0.pdf](https://github.com/user-attachments/files/22002783/Cryptography.NCL.Training-v1.0.pdf)
+  > - [OSINT and Crypto.pdf](https://github.com/user-attachments/files/22002786/OSINT.and.Crypto.pdf)
+  > - [decodePuzzles.pdf](https://github.com/user-attachments/files/22002787/decodePuzzles.-.Tagged.pdf)
+  > - [crypto_image_files.zip](https://github.com/user-attachments/files/22002803/crypto_image_files.zip)
 ---
 
 ## 🔓 Password Cracking
 Guides and wordlists for cracking passwords.  
-- xyz
-
+- Basic Password Cracking
+  > - [Try Hack Me: Crack The Hash](https://tryhackme.com/room/crackthehash)
+  > - [Password Cracking Compendium.pdf](https://github.com/user-attachments/files/22002959/Password.Cracking.Compendium.pdf)
+- Password Cracking Tools
+  > - [Tool Documentation: Hashcat](https://www.kali.org/tools/hashcat/)
+  > - [Tool Documentation: John The Ripper](https://www.kali.org/tools/john/)
+  > - [Tool Documentation: Haiti](https://en.kali.tools/?p=1567)
+  > - [Tool Download: Haiti.zip](https://github.com/user-attachments/files/22003152/haiti-master.zip)
+  > - [Tool Documentation & Install:  wordlistctl in Kali](https://miloserdov.org/?p=2701)
+  > - [Tool Documentation: rsmangler - Wordlist Creator](https://www.kali.org/tools/rsmangler/)
+  > - [Tool Documentation: Crunch_Create Wordlists_](https://www.irongeek.com/i.php?page=backtrack-r1-man-pages/crunch)
+  > - [Tool Documentation: Ophcrack _LMNT Password_Cracking](https://ophcrack.sourceforge.io/tables.php)
+  > - [Tool Download: HashTag.zip](https://github.com/user-attachments/files/22003156/HashTag-master.zip)
+  > - [Password Cracking Compendium.pdf](https://github.com/user-attachments/files/22003158/Password.Cracking.Compendium.pdf)
+  > - [HashSuite Download - John the Ripper for Windows](https://hashsuite.openwall.net/download)
+  > - [John the Ripper Cheat Sheet.pdf](https://github.com/user-attachments/files/22003160/John.the.Ripper.Cheat.Sheet.pdf)
+  > - [PDF Password Cracking w/ JohnTheRipper (pdf2john)](https://ourcodeworld.com/articles/read/939/how-to-crack-a-pdf-password-with-brute-force-using-john-the-ripper-in-kali-linux)
+  > - [Hash Crack.pdf](https://github.com/user-attachments/files/22003163/Hash.Crack.pg.36-39.pdf)
+  > - [Crackstation](https://crackstation.net/)
 ---
 
 ## 🕵️ Forensics
 References for **analyzing files, memory, and network captures**.  
-- xyz 
-
+- General Resources
+  > - [How to Regex When You Know Nothing](https://cryptokait.com/2021/03/01/how-to-regex-when-you-know-nothing/)
+  > - [Forensics: First Impression](https://cryptokait.com/2021/03/10/forensics-first-impression/)
+- Various Forensics Tools
+  > - [Registry_Quick_Find_Chart_9-27-10.pdf](https://github.com/user-attachments/files/22003401/Registry_Quick_Find_Chart_9-27-10.pdf)
+  > - [GCK'S File Signatures Table](https://www.garykessler.net/library/file_sigs.html)
+  > - [Sublime Text Regular Expression Cheat Sheet](https://jdhao.github.io/2019/02/28/sublime_text_regex_cheat_sheet/)
+  > - [Regex101 - Regular Expressions with Test Data](https://regex101.com/)
+  > - [Autopsy](https://www.sleuthkit.org/)
+  > - [Digging into Autopsy](https://cryptokait.com/2021/03/08/digging-into-autopsy-forensics/)
+  > - [HxD](https://mh-nexus.de/en/hxd/)
+  > - [CUPP](https://github.com/Mebus/cupp)
+  > - [FTK Imager](https://www.exterro.com/)
+- Volatility Help Files
+  > - [Tool: Volatility Download](https://volatilityfoundation.org/)
+  > - [Documentation: Volatility CheatSheet.pdf](https://github.com/user-attachments/files/22003509/CheatSheet_v2.4.pdf)
+  > - [Volatility Help File.pdf](https://github.com/user-attachments/files/22003521/Volatility.Help.File.pdf)
+  > - [Volatility Command Reference](https://github.com/volatilityfoundation/volatility/wiki/Command-Reference)
+  > - [Volatility Memory Forensics](https://www.securitynik.com/2015/11/volatility-memory-forensics.html)
+- Forensics Training
+  > - [Club Meeting - Aug. 26, 2021 - Forensics Training - YouTube](https://www.youtube.com/watch?v=YuBcpK0IhIg)
+  > - [Club Meeting - February 25, 2022 - NCL Forensics Training - YouTube](https://www.youtube.com/watch?v=-S_ceiVwYLg)
+  > - [Forensics - Spring 22 Individual NCL Game.pdf](https://github.com/user-attachments/files/22003240/4.Forensics.pdf)
+- Forensics Practice Files
+  > - [Forensics-File Carving.pdf](https://github.com/user-attachments/files/22003615/Forensics-File.Carving.pdf)
+  > - [Forensics-Version Control.pdf](https://github.com/user-attachments/files/22003627/Forensics-Version.Control.pdf)
+  > - [Hello Sir or Madam.pdf](https://github.com/user-attachments/files/22003641/Hello.Sir.or.Madam.-.Tagged.pdf)
+  > - [HelloDearsirorMadam.pdf](https://github.com/user-attachments/files/22003665/HelloDearsirorMadam.-.Tagged.pdf)
+  > - [Green_File.png](<img width="63" height="36" alt="green_file" src="https://github.com/user-attachments/assets/c7425f61-c59a-4640-8e51-50b4d100609c" />)
 ---
 
 ## 📡 Scanning
 Resources on **port scanning and network mapping**.  
-- xyz
-
+- General Resources
+  > - [Tool: dirbuster](https://www.kali.org/tools/dirbuster/)
+  > - [Tool: wfuzz](https://www.kali.org/tools/wfuzz/)
+  > - [Tool: Burpsuite](https://portswigger.net/burp/documentation/desktop/testing-workflow)
+  > - [grep_awk_sed-2.pdf](https://github.com/user-attachments/files/22003745/grep_awk_sed-2.pdf)
 ---
