@@ -166,6 +166,8 @@ Resources on **port scanning and network mapping**.
 ## 🔎 OSINT
 Resources for **Open Source Intelligence**.
 - General Resources
+  > - [OSINT Spring 22- Individual NCL Game.pdf](https://github.com/user-attachments/files/22004567/1.OSINT.pdf)
+  > - [OSINT and Crypto - Spring 22 Preseason NCL Game.pdf](https://github.com/user-attachments/files/22004575/OSINT.and.Crypto-1.pdf)
   > - [Custom OSINT List.pdf](https://github.com/user-attachments/files/22004185/Custom.OSINT.List.pdf)
   > - [Google-Fu.pdf](https://github.com/user-attachments/files/22004148/Google-Fu.pdf)
   > - [OSINT_Handbook_2020.pdf](https://github.com/user-attachments/files/22004153/OSINT_Handbook_2020.pdf)
