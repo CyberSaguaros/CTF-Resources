@@ -162,3 +162,44 @@ Resources on **port scanning and network mapping**.
   > - [Tool: Burpsuite](https://portswigger.net/burp/documentation/desktop/testing-workflow)
   > - [grep_awk_sed-2.pdf](https://github.com/user-attachments/files/22003745/grep_awk_sed-2.pdf)
 ---
+
+## 🔎 OSINT
+Resources for **Open Source Intelligence**.
+- General Resources
+  > - [Custom OSINT List.pdf](https://github.com/user-attachments/files/22004185/Custom.OSINT.List.pdf)
+  > - [Google-Fu.pdf](https://github.com/user-attachments/files/22004148/Google-Fu.pdf)
+  > - [OSINT_Handbook_2020.pdf](https://github.com/user-attachments/files/22004153/OSINT_Handbook_2020.pdf)
+  > - [Shodan.pdf](https://github.com/user-attachments/files/22004201/shodan.pdf)
+  > - [Google Dorking (Search Hacking)](https://en.wikipedia.org/wiki/Google_hacking)
+  > - [Smart Searching, Google Dorking, Google-Fu](https://exposingtheinvisible.org/en/guides/google-dorking/)
+  > - [OSINT Framework](https://osintframework.com/)
+  > - [Awesome OSINT - Huge List of OSINT Resources](https://github.com/jivoi/awesome-osint)
+  > - [APPSECO - Open Source Intelligence Gathering 201](https://blog.appsecco.com/open-source-intelligence-gathering-201-covering-12-additional-techniques-b76417b5a544)
+  > - [IACA Dark Web Investigation Support](https://iaca-darkweb-tools.com/)
+  > - [WebSleuths Blog](https://websleuths.com/)
+  > - [WiGLE](https://wigle.net/)
+  > - [DeHashed - not to be used in NCL](https://www.dehashed.com/)
+  > - [LABS: Blockchain Sandbox](https://eth.build/)
+  > - [OSINTCurio.us](https://www.osintcurio.us/index.htm)
+- OSINT Training Videos
+  > - [Club Meeting Aug. 19, 2021 - OSINT Into - YouTube](https://www.youtube.com/watch?v=2oBAoXNX31U)
+- Keep Yourself Safe!
+  > - [Credit-Freeze Guide.pdf](https://github.com/user-attachments/files/22004356/freeze.pdf)
+  > - [Personal Data Removal Workbook.pdf](https://github.com/user-attachments/files/22004362/workbook.pdf)
+  > - [';--have i been pwned](https://haveibeenpwned.com/)
+  > - [IntelTechniques By Michael Bazzell](https://inteltechniques.com/links.html)
+- OSINT Practice
+  > - [OSINT and Crypto.pdf](https://github.com/user-attachments/files/22004391/OSINT.and.Crypto.pdf)
+  > - [OSINT_image_files.zip](https://github.com/user-attachments/files/22004396/OSINT_image_files.zip)
+- OSINT VM
+  > - [Trace-Lab OSINT Virtual Machine](https://www.tracelabs.org/blog/trace-labs-osint-vm-version-2020-2-now-available)
+- Other Reading Materials
+  > - [Extreme Privacy Book.pdf](https://github.com/user-attachments/files/22004461/freeze-1.pdf)
+  > - [Extreme Privacy Workbook.pdf](https://github.com/user-attachments/files/22004482/workbook-1.pdf)
+  > - [NATO_Open_Source_Intelligence_Handbook.pdf](https://github.com/user-attachments/files/22004512/NATO_Open_Source_Intelligence_Handbook.pdf)
+  > - [opensourceintelligencemethodsandtools.pdf](https://github.com/user-attachments/files/22004514/opensourceintelligencemethodsandtools.pdf)
+  > - [silenceonthewire.pdf](https://github.com/user-attachments/files/22004522/silenceonthewire.pdf)
+  > - [socialengineering_thescienceofhumanhacking_2ndedition.pdf](https://github.com/user-attachments/files/22004526/socialengineering_thescienceofhumanhacking_2ndedition.pdf)
+  > - [MiningSocialMedia_SampleCh4.pdf](https://github.com/user-attachments/files/22004529/MiningSocialMedia_SampleCh4.pdf)
+  > - [socialmediawarfare.pdf](https://github.com/user-attachments/files/22004531/socialmediawarfare.pdf)
+---
